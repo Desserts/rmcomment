@@ -1,8 +1,6 @@
 package rmcomment
 
-import (
-	"fmt"
-)
+import ()
 
 var lineComment []rune
 var startBlockComment []rune
